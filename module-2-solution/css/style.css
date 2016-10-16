@@ -65,7 +65,7 @@ section p {
 
 @media (min-width: 768px) and (max-width: 991px) {
  section {
- float: left;
+  float: left;
   margin-right: 2.5%;
   width: 46.25%;
  }
